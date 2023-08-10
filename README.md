@@ -1,1 +1,1 @@
-# MoviesApp
+# Vibely Footer
